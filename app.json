@@ -4,7 +4,7 @@
   "repository": "https://github.com/kyb3r/logviewer",
   "env": {
     "MONGO_URI": {
-        "description": "Mongodb connection uri that contains your modmail logs.",
+        "description": "mongodb+srv://maisonbleudeluca:dSyCENV39%@shA3MXv4nTMMZ?ZFoYX@cluster0.to1mg.mongodb.net",
         "required": true
         }
     }
